@@ -1,5 +1,9 @@
-// Dependencies
+# Dependencies
 node_modules/
+package-lock.json
 
-// Production file
+# Production file
 index.js
+
+# Config
+tsconfig.json
